@@ -1,0 +1,6 @@
+package main;
+
+public class Reference {
+	public static final String MOD_ID = "ArcaneMechs";
+	public static final String MOD_NAME = "Arcane Mechworks";
+}

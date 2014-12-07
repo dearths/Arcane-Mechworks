@@ -1,0 +1,5 @@
+package com.dearths.ArcaneMechs.proxy;
+
+public abstract class ServerProxy extends CommonProxy {
+
+}

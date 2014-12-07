@@ -1,0 +1,5 @@
+package com.dearths.ArcaneMechs;
+
+public interface IProxy {
+
+}
