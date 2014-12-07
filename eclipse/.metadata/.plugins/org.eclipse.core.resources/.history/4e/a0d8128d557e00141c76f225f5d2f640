@@ -1,0 +1,19 @@
+[
+{
+  "modid": "ArcaneMechs",
+  "name": "Arcane Mechworks",
+  "description": "What the name says- magical machines! Enchanted engines! Sorcerous servos!",
+  "version": "v1.1.2",
+  "credits": "Created by dearths. Thanks to Pahimar and his \\nLet's Mod Rebooted series!",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "None yet. Check back later!",
+  "updateUrl": "",
+  "authors": [ "dearths" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+]
+}
+]
